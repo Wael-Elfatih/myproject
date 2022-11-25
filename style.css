@@ -6,7 +6,13 @@ body{
 }
 p{
     color: red;
+    margin: 10px;
+    border: 20px;
+    font-size: medium;
 }
 li{
     color: bisque;
+}
+ol{
+    color: white;
 }
